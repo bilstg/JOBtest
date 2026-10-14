@@ -1,0 +1,16 @@
+# Dépendances et fichiers générés
+node_modules
+.next
+out
+.vercel
+
+# Clés secrètes : ne jamais envoyer sur GitHub
+.env*.local
+.env
+
+# Divers
+.DS_Store
+npm-debug.log*
+
+# Réglages locaux de Claude
+.claude
